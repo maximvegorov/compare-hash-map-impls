@@ -1,3 +1,3 @@
 # .Net vs Java vs Go
 
-Comparing hash map implementation in different platforms
+Comparing hash map implementations in different platforms
